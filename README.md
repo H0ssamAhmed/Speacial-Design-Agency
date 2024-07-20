@@ -6,10 +6,12 @@ An Agency That Offers A Variety Of Services That Fall Under The Umbrella Of Mark
 You can access the live demo of this app by following this link: [Speacial Design Agency](https://h0ssamahmed.github.io/Speacial-Design-Agency/)
 
 ## Features
-- **Add new tasks**: Simply enter a task in the input field and click "Add Task" or "Enter" to add it to the list.
-- **Remove tasks**: Click the trash can icon next to a task to delete it.
-- **Edit Tasks**: Click the edit icon to modify a task's content. When you edit a task, the time it was added will be updated to reflect the time of the edit.
-- **Clear all tasks**: Use the "Clear All Tasks" button to remove all tasks from the list.
+- **Theme Options**: Choose between dark and light themes.
+- **Color Customization**: Select custom colors for the website.
+- **Scroll Progress**: Option to display or hide scroll progress.
+- **Random Backgrounds**: Enable or disable random background images.
+- **Back to Top**: Clickable arrow to return to the top of the page.
+- **Navigation Bullets**: Option to show or hide navigation bullets for browsing the website.
 
 ## Technologies Used
 - HTML
